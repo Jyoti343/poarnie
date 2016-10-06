@@ -2,6 +2,10 @@
 
 2.LExi DIAmond
 
+<<<<<<< HEAD
 3.KEnnedy LEigh
 
 4.AUgust AmeS
+=======
+3.KEnnedy LEigh
+>>>>>>> origin/master
