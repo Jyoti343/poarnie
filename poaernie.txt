@@ -8,4 +8,8 @@
 4.AUgust AmeS
 =======
 3.KEnnedy LEigh
+<<<<<<< HEAD
 >>>>>>> refs/heads/master
+=======
+>>>>>>> origin/master
+>>>>>>> lorigin/prn1
