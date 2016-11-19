@@ -11,3 +11,4 @@ public class Delay1 {
 		
        System.out.println("Jyoti loves sunny and maze also");
 }
+}
