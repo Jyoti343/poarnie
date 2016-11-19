@@ -1,10 +1,6 @@
 package dele1;
 
 import java.io.File;
-
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-
 public class Delay1 {
 
 	public static void main(String sd[]){
