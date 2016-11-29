@@ -1,7 +1,7 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class Jenkins1_launching_ff {
+public class Driver1{
 
 	
 	public static void main(String kdf[]){
