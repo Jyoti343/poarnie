@@ -1,4 +1,3 @@
-package simpl;
 
 public class Just1 {
 
